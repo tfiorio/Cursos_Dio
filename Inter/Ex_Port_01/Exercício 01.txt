@@ -1,0 +1,2 @@
+Obeter a média de vendas entre jan e abr de um funcionário
+Exibir total de vendas e média do funcionário

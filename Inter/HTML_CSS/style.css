@@ -1,0 +1,59 @@
+body {
+    background: #fcfcfc;
+    font-family: verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .post-title {
+    color: #0000ff;
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through; /* coloca um risco no centro da palavra */
+    color: #505050;
+}
+
+.post-title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: #ffffff;
+    padding: 15px;
+    border: 2px solid #0000ff;
+    border-top: 2px dotted #00ff00;
+    border-right: 4px dashed #ffc0cb;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post-content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize; /* Deixa todas as palavras com a primeira letra em maiúsculo */
+    text-align: justify;
+}
+
+.post-image {
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contacts-list {
+    list-style-type: none; /* altera o simbolo da lista, neste caso para nenhum, mas poderia ser square, disc, circle etc */
+    padding-left: 15px;
+}
+
+.contacts-list li a {
+    text-decoration: none;
+}

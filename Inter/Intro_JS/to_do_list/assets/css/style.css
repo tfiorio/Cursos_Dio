@@ -1,0 +1,27 @@
+body {
+   font-family: verdana, sans-serif;
+   color: #00a5c1;
+   background-color: #a8f0ea;
+}
+
+section {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.insert {
+   display: flex;
+   flex-direction: row;
+   margin: 10px;
+}
+
+.insert button {
+   margin-left: 5px;
+}
+
+#todo {
+   margin: auto;
+   margin-top: 15px;
+}
