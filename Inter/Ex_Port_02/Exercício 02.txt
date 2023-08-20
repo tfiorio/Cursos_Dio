@@ -1,1 +1,0 @@
-Montar um menu usando se pra 4 opções de escolha de streaming, e depois usar o mesmo código com a função caso
